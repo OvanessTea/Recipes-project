@@ -16,22 +16,6 @@ function Header() {
                             Home
                         </Link>
                     </li>
-                    <li>
-                        <Link
-                            to="/about"
-                            className="blue-grey-text text-darken-2"
-                        >
-                            About
-                        </Link>
-                    </li>
-                    <li>
-                        <Link
-                            to="/contact"
-                            className="blue-grey-text text-darken-2"
-                        >
-                            Contacts
-                        </Link>
-                    </li>
                 </ul>
             </div>
         </nav>
